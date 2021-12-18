@@ -1,0 +1,1751 @@
+[
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/space_gg_1000_it.json",
+    "total": 1838,
+    "index": 1500,
+    "id_item": "space_gg_1000_it",
+    "english": "space",
+    "list_mean": [
+      "không gian",
+      "chổ",
+      "khoảng",
+      "miếng cách chữ",
+      "khoảng không",
+      "khoảng thới gian",
+      "khoảng trống",
+      "làm cho cách nhau",
+      "phân chia hàng"
+    ],
+    "cau_en": "the work gives the sense of a journey in space and time",
+    "cau_vn": "Công việc mang lại cảm giác về một hành trình trong không gian và thời gian",
+    "hash_code_list_mean": "-2052250049"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/speaker_gg_1000_it.json",
+    "total": 1838,
+    "index": 1501,
+    "id_item": "speaker_gg_1000_it",
+    "english": "speaker",
+    "list_mean": [
+      "diển giả",
+      "máy phát thanh",
+      "người đối thoại",
+      "người diển thuyết",
+      "phát ngôn viên",
+      "viện trưởng",
+      "xướng ngôn viên"
+    ],
+    "cau_en": "language communication involves the interrelation between speaker and hearer",
+    "cau_vn": "Truyền thông ngôn ngữ liên quan đến mối quan hệ giữa loa và người nghe",
+    "hash_code_list_mean": "-1928547326"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/speak_gg_1000_it.json",
+    "total": 1838,
+    "index": 1502,
+    "id_item": "speak_gg_1000_it",
+    "english": "speak",
+    "list_mean": [
+      "chứng tỏ",
+      "diển thuyết",
+      "nói"
+    ],
+    "cau_en": "in his agitation he was unable to speak",
+    "cau_vn": "Trong sự kích động của anh ấy, anh ấy không thể nói",
+    "hash_code_list_mean": "761437238"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/special_gg_1000_it.json",
+    "total": 1838,
+    "index": 1503,
+    "id_item": "special_gg_1000_it",
+    "english": "special",
+    "list_mean": [
+      "đặc biệt",
+      "riêng biệt",
+      "chuyến xe lửa đặc biệt",
+      "giá đặc biệt",
+      "tớ báo xuất bản đặc biệt",
+      "vật nổi bật nhất"
+    ],
+    "cau_en": "they always made a special effort at Christmas",
+    "cau_vn": "Họ luôn nỗ lực đặc biệt vào Giáng sinh",
+    "hash_code_list_mean": "1586732934"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/specify_gg_1000_it.json",
+    "total": 1838,
+    "index": 1504,
+    "id_item": "specify_gg_1000_it",
+    "english": "specify",
+    "list_mean": [
+      "chỉ rỏ",
+      "định rỏ",
+      "ghi rỏ",
+      "xác định"
+    ],
+    "cau_en": "the coup leader promised an election but did not specify a date",
+    "cau_vn": "Nhà lãnh đạo đảo chính đã hứa rằng một cuộc bầu cử nhưng không chỉ định một ngày",
+    "hash_code_list_mean": "720604701"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/speech_gg_1000_it.json",
+    "total": 1838,
+    "index": 1505,
+    "id_item": "speech_gg_1000_it",
+    "english": "speech",
+    "list_mean": [
+      "lời nói",
+      "ngôn ngữ của một dân tộc"
+    ],
+    "cau_en": "the headmistress made a speech about how much they would miss her",
+    "cau_vn": "The Headgistress phát biểu về việc họ sẽ nhớ cô ấy bao nhiêu",
+    "hash_code_list_mean": "1156204959"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/speed_gg_1000_it.json",
+    "total": 1838,
+    "index": 1506,
+    "id_item": "speed_gg_1000_it",
+    "english": "speed",
+    "list_mean": [
+      "đi mau",
+      "tốc độ",
+      "vận tốc"
+    ],
+    "cau_en": "more kids than ever are speeding, tripping, and getting stoned",
+    "cau_vn": "nhiều trẻ em hơn bao giờ hết đang tăng tốc, vấp ngã và bị ném đá",
+    "hash_code_list_mean": "1820623201"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/spell_gg_1000_it.json",
+    "total": 1838,
+    "index": 1507,
+    "id_item": "spell_gg_1000_it",
+    "english": "spell",
+    "list_mean": [
+      "phiên",
+      "lời nói say mê",
+      "sức làm say mê",
+      "sự quyến rũ",
+      "có nghĩa",
+      "đánh vần",
+      "thay phiên làm việc",
+      "đánh vần từng mẫu tự",
+      "đọc chậm và khó khăn"
+    ],
+    "cau_en": "she had the chic, efficient look that spells Milan",
+    "cau_vn": "Cô ấy đã có sự sang trọng, vẻ ngoài hiệu quả mà phép thuật Milan",
+    "hash_code_list_mean": "-651434659"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/spend_gg_1000_it.json",
+    "total": 1838,
+    "index": 1508,
+    "id_item": "spend_gg_1000_it",
+    "english": "spend",
+    "list_mean": [
+      "tiêu",
+      "tiêu pha",
+      "làm kiệt sức",
+      "dùng hết tiền",
+      "xài",
+      "xài phí"
+    ],
+    "cau_en": "the firm has spent $100,000 on hardware and software",
+    "cau_vn": "Công ty đã chi 100.000 đô la cho phần cứng và phần mềm",
+    "hash_code_list_mean": "1897501286"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/sphere_gg_1000_it.json",
+    "total": 1838,
+    "index": 1509,
+    "id_item": "sphere_gg_1000_it",
+    "english": "sphere",
+    "list_mean": [
+      "khu vực",
+      "vật giống hình cầu"
+    ],
+    "cau_en": "political reforms to match those in the economic sphere",
+    "cau_vn": "cải cách chính trị để phù hợp với những người trong lĩnh vực kinh tế",
+    "hash_code_list_mean": "-429763921"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/spill_gg_1000_it.json",
+    "total": 1838,
+    "index": 1510,
+    "id_item": "spill_gg_1000_it",
+    "english": "spill",
+    "list_mean": [
+      "sự té lộn nhào",
+      "chảy ra",
+      "làm đổ",
+      "làm té ngựa",
+      "làm tràn"
+    ],
+    "cau_en": "the horse was wrenched off course, spilling his rider",
+    "cau_vn": "Con ngựa đã bị vuốt ve, tràn ra người lái của mình",
+    "hash_code_list_mean": "-988400765"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/spin_gg_1000_it.json",
+    "total": 1838,
+    "index": 1511,
+    "id_item": "spin_gg_1000_it",
+    "english": "spin",
+    "list_mean": [
+      "cú đánh làm xoay tròn",
+      "đánh hỏng",
+      "đánh rớt",
+      "xe chỉ",
+      "xoay bông vụ"
+    ],
+    "cau_en": "they were spinning for salmon in the lake",
+    "cau_vn": "họ đang quay cuồng cho cá hồi trong hồ",
+    "hash_code_list_mean": "-779793442"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/splash_gg_1000_it.json",
+    "total": 1838,
+    "index": 1512,
+    "id_item": "splash_gg_1000_it",
+    "english": "splash",
+    "list_mean": [
+      "đốm trên da thú",
+      "phấn bột gạo",
+      "sự làm bùn văng lên",
+      "vũng nước",
+      "làm văng bùn",
+      "lội trong bùn",
+      "vổ bập bềnh"
+    ],
+    "cau_en": "we hit the water with a mighty splash",
+    "cau_vn": "Chúng tôi chạm nước với một giật gân mạnh mẽ",
+    "hash_code_list_mean": "-896751626"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/spleen_gg_1000_it.json",
+    "total": 1838,
+    "index": 1513,
+    "id_item": "spleen_gg_1000_it",
+    "english": "spleen",
+    "list_mean": [
+      "bịnh ưu uất",
+      "sự hờn giận",
+      "sự tức giận",
+      "tỳ tạng"
+    ],
+    "cau_en": "he could vent his spleen on the institutions that had duped him",
+    "cau_vn": "anh ta có thể trút lách của mình vào các tổ chức đã lừa anh ta",
+    "hash_code_list_mean": "191344451"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/spoil_gg_1000_it.json",
+    "total": 1838,
+    "index": 1514,
+    "id_item": "spoil_gg_1000_it",
+    "english": "spoil",
+    "list_mean": [
+      "chiến lợi phẫm",
+      "đồ lấy được",
+      "cướp bóc",
+      "cướp phá",
+      "làm hư hàng hóa"
+    ],
+    "cau_en": "the last thing I want to do is spoil Thomas",
+    "cau_vn": "Điều cuối cùng tôi muốn làm là làm hỏng Thomas",
+    "hash_code_list_mean": "1670462144"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/sponge_gg_1000_it.json",
+    "total": 1838,
+    "index": 1515,
+    "id_item": "sponge_gg_1000_it",
+    "english": "sponge",
+    "list_mean": [
+      "bọt biển",
+      "sự bỏ cuộc",
+      "sự chịu thua",
+      "ăn chực",
+      "chùi bằng bọt biển",
+      "rửa vết thương"
+    ],
+    "cau_en": "she sponged him down in an attempt to cool his fever",
+    "cau_vn": "Cô ấy giẫm lên anh ta trong một nỗ lực để làm mát cơn sốt của mình",
+    "hash_code_list_mean": "1382553033"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/spot_gg_1000_it.json",
+    "total": 1838,
+    "index": 1516,
+    "id_item": "spot_gg_1000_it",
+    "english": "spot",
+    "list_mean": [
+      "nơi",
+      "chấm nhỏ",
+      "dấu",
+      "chổ",
+      "chốn",
+      "đốm",
+      "làm chấm vật gì",
+      "làm có đốm",
+      "nhận ra"
+    ],
+    "cau_en": "ladybugs have black spots on their red wing covers",
+    "cau_vn": "bọ rùa có đốm đen trên vỏ cánh đỏ của họ",
+    "hash_code_list_mean": "-1711061693"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/spread_gg_1000_it.json",
+    "total": 1838,
+    "index": 1517,
+    "id_item": "spread_gg_1000_it",
+    "english": "spread",
+    "list_mean": [
+      "căng ra",
+      "trương ra",
+      "chạy dài ra",
+      "lan tràn",
+      "trải ra",
+      "truyền bịnh",
+      "đồn tin",
+      "cánh xoè ra",
+      "lan rộng ra",
+      "trải ra",
+      "bữa ăn tiệc",
+      "diện tích",
+      "sự lan rộng",
+      "sự phân cách",
+      "sự truyền bá"
+    ],
+    "cau_en": "warmer temperatures could help reduce the spread of the disease",
+    "cau_vn": "Nhiệt độ ấm hơn có thể giúp giảm sự lây lan của bệnh",
+    "hash_code_list_mean": "-1657784157"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/spring_gg_1000_it.json",
+    "total": 1838,
+    "index": 1518,
+    "id_item": "spring_gg_1000_it",
+    "english": "spring",
+    "list_mean": [
+      "căn nguyên",
+      "chổ cong của tấm ván",
+      "mùa xuân",
+      "nước suối",
+      "nhíp xe",
+      "suối",
+      "sự nhảy",
+      "nguồn",
+      "tính co dản",
+      "nguồn gốc",
+      "làm bung lên",
+      "nhảy",
+      "rỉ ra nước",
+      "làm cong",
+      "làm nổ mìn"
+    ],
+    "cau_en": "madness and creativity could spring from the same source",
+    "cau_vn": "sự điên rồ và sáng tạo có thể mùa xuân từ cùng một nguồn",
+    "hash_code_list_mean": "1991607516"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/square_gg_1000_it.json",
+    "total": 1838,
+    "index": 1519,
+    "id_item": "square_gg_1000_it",
+    "english": "square",
+    "list_mean": [
+      "vuông",
+      "ô vuông",
+      "bày trận theo hình vuông",
+      "bình phương",
+      "hình vuông",
+      "khối vuông",
+      "thước vuông",
+      "cách dàn binh",
+      "có góc vuông",
+      "thành thật",
+      "đẻo vuông góc",
+      "gạch vuông",
+      "hối lộ",
+      "kẻ ô vuông",
+      "làm cho vuông",
+      "tự thừa",
+      "thanh toán"
+    ],
+    "cau_en": "these lines must be square to the top and bottom marked edges",
+    "cau_vn": "Những dòng này phải vuông với các cạnh được đánh dấu trên cùng và dưới cùng",
+    "hash_code_list_mean": "-1668905546"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/squash_gg_1000_it.json",
+    "total": 1838,
+    "index": 1520,
+    "id_item": "squash_gg_1000_it",
+    "english": "squash",
+    "list_mean": [
+      "bí đao",
+      "đám đông",
+      "sự đè bẹp",
+      "sự đè giẹp",
+      "sự làm bằng",
+      "bẻ lại làm",
+      "đáp lại",
+      "đè bẹp",
+      "ép trái cây"
+    ],
+    "cau_en": "it was a tight squash but he didn't seem to mind",
+    "cau_vn": "Đó là một bí đao chật hẹp nhưng anh ta dường như không bận tâm",
+    "hash_code_list_mean": "1165149388"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/squirrel_gg_1000_it.json",
+    "total": 1838,
+    "index": 1521,
+    "id_item": "squirrel_gg_1000_it",
+    "english": "squirrel",
+    "list_mean": [
+      "con sóc"
+    ],
+    "cau_en": "they were squirreling around in the woods in search of something",
+    "cau_vn": "họ đang nhìn xung quanh trong rừng để tìm kiếm một cái gì đó",
+    "hash_code_list_mean": "-644457317"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/stage_gg_1000_it.json",
+    "total": 1838,
+    "index": 1522,
+    "id_item": "stage_gg_1000_it",
+    "english": "stage",
+    "list_mean": [
+      "đoạn đường",
+      "giai đoạn",
+      "nghề hát",
+      "sân khấu",
+      "từng hầm mỏ",
+      "vũ đài",
+      "đem diển hát"
+    ],
+    "cau_en": "there is no need at this stage to give explicit details",
+    "cau_vn": "Không cần ở giai đoạn này để cung cấp chi tiết rõ ràng",
+    "hash_code_list_mean": "24610276"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/stand_gg_1000_it.json",
+    "total": 1838,
+    "index": 1523,
+    "id_item": "stand_gg_1000_it",
+    "english": "stand",
+    "list_mean": [
+      "cách đứng",
+      "chổ",
+      "chổ đậu xe",
+      "gian hàng",
+      "khán đài",
+      "sự chống cự",
+      "sự ngừng lại",
+      "vị trí",
+      "chịu đựng",
+      "đặt vật gì lên",
+      "đứng",
+      "giử vửng lập trường",
+      "kéo dài",
+      "ngừng lại",
+      "đứng dậy"
+    ],
+    "cau_en": "small boats that could stand the punishment of heavy seas",
+    "cau_vn": "những chiếc thuyền nhỏ có thể chịu được sự trừng phạt của biển nặng",
+    "hash_code_list_mean": "1611062269"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/stare_gg_1000_it.json",
+    "total": 1838,
+    "index": 1524,
+    "id_item": "stare_gg_1000_it",
+    "english": "stare",
+    "list_mean": [
+      "cái nhìn chăm chăm",
+      "cái nhìn chòng chọc",
+      "mở to mắt ra",
+      "nhìn chăm chăm",
+      "nhìn chòng chọc"
+    ],
+    "cau_en": "he stared at her in amazement",
+    "cau_vn": "anh ấy nhìn chằm chằm vào cô ấy một cách kinh ngạc",
+    "hash_code_list_mean": "-744170729"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/start_gg_1000_it.json",
+    "total": 1838,
+    "index": 1525,
+    "id_item": "start_gg_1000_it",
+    "english": "start",
+    "list_mean": [
+      "buổi đầu",
+      "lúc đầu",
+      "sự giựt mình",
+      "sự khởi hành",
+      "bắt đầu",
+      "cho máy chạy",
+      "giựt mình"
+    ],
+    "cau_en": "he takes over as chief executive at the start of next year",
+    "cau_vn": "Ông tiếp quản như giám đốc điều hành vào đầu năm tới",
+    "hash_code_list_mean": "-930353220"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/star_gg_1000_it.json",
+    "total": 1838,
+    "index": 1526,
+    "id_item": "star_gg_1000_it",
+    "english": "star",
+    "list_mean": [
+      "ngôi sao",
+      "mề đay"
+    ],
+    "cau_en": "the walls were painted with silver moons and stars",
+    "cau_vn": "Các bức tường được vẽ bằng mặt trăng bạc và các ngôi sao",
+    "hash_code_list_mean": "-456458338"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/state_gg_1000_it.json",
+    "total": 1838,
+    "index": 1527,
+    "id_item": "state_gg_1000_it",
+    "english": "state",
+    "list_mean": [
+      "địa vị",
+      "tiểu bang",
+      "tình trạng",
+      "trạng thái",
+      "vẻ lộng lẩy",
+      "định ngày",
+      "phát biểu",
+      "tuyên bố",
+      "ra một bài toán"
+    ],
+    "cau_en": "an oblong plate, dry point, first state of eight",
+    "cau_vn": "một tấm thuôn, điểm khô, trạng thái đầu tiên của tám",
+    "hash_code_list_mean": "1265294072"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/station_gg_1000_it.json",
+    "total": 1838,
+    "index": 1528,
+    "id_item": "station_gg_1000_it",
+    "english": "station",
+    "list_mean": [
+      "chổ canh gát",
+      "địa vị",
+      "nhà ga",
+      "trạm"
+    ],
+    "cau_en": "the lookout resumed his station in the bow",
+    "cau_vn": "Lookout đã tiếp tục trạm của mình trong cung",
+    "hash_code_list_mean": "-246925404"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/stay_gg_1000_it.json",
+    "total": 1838,
+    "index": 1529,
+    "id_item": "stay_gg_1000_it",
+    "english": "stay",
+    "list_mean": [
+      "sức chịu đựng",
+      "sự ở lại",
+      "sự trở ngại",
+      "thời gian lưu lại",
+      "chận lại",
+      "lưu lại",
+      "ngừng",
+      "ở lại"
+    ],
+    "cau_en": "the girls had gone to stay with friends",
+    "cau_vn": "Các cô gái đã đi ở lại với bạn bè",
+    "hash_code_list_mean": "-1089730029"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/steal_gg_1000_it.json",
+    "total": 1838,
+    "index": 1530,
+    "id_item": "steal_gg_1000_it",
+    "english": "steal",
+    "list_mean": [
+      "ăn cắp",
+      "ăn trộm",
+      "dụ dổ"
+    ],
+    "cau_en": "he stole down to the kitchen",
+    "cau_vn": "Anh lấy trộm xuống bếp",
+    "hash_code_list_mean": "-1530549245"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/steam_gg_1000_it.json",
+    "total": 1838,
+    "index": 1531,
+    "id_item": "steam_gg_1000_it",
+    "english": "steam",
+    "list_mean": [
+      "hơi",
+      "hơi nước",
+      "sự xì hơi",
+      "bay hơi",
+      "bốc hơi",
+      "chưng bằng hơi"
+    ],
+    "cau_en": "a mug of coffee was steaming at her elbow",
+    "cau_vn": "Một cốc cà phê đang hấp ở khuỷu tay của cô ấy",
+    "hash_code_list_mean": "1229941935"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/steel_gg_1000_it.json",
+    "total": 1838,
+    "index": 1532,
+    "id_item": "steel_gg_1000_it",
+    "english": "steel",
+    "list_mean": [
+      "ống quẹt máy",
+      "thép",
+      "làm cho cứng như thép"
+    ],
+    "cau_en": "I speak quickly, steeling myself for a mean reply",
+    "cau_vn": "Tôi nói nhanh, thép để trả lời trung bình",
+    "hash_code_list_mean": "-174814078"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/step_gg_1000_it.json",
+    "total": 1838,
+    "index": 1533,
+    "id_item": "step_gg_1000_it",
+    "english": "step",
+    "list_mean": [
+      "bệ để dựng cột buồm",
+      "cách đi",
+      "dáng đi",
+      "nấc thang",
+      "sự thăng chức",
+      "bước đi",
+      "bước đi",
+      "đếm bước đo đoạn đường"
+    ],
+    "cau_en": "a major step forward in the fight for justice",
+    "cau_vn": "một bước tiến lớn trong cuộc chiến cho công lý",
+    "hash_code_list_mean": "263702855"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/stick_gg_1000_it.json",
+    "total": 1838,
+    "index": 1534,
+    "id_item": "stick_gg_1000_it",
+    "english": "stick",
+    "list_mean": [
+      "cán dù",
+      "gậy",
+      "khúc củi",
+      "người không hăng hái",
+      "dán dính",
+      "đâm người nào bằng dao gâm",
+      "gắn trên vật gì nhọn đầu"
+    ],
+    "cau_en": "training that relies more on the carrot than on the stick",
+    "cau_vn": "đào tạo phụ thuộc nhiều hơn trên củ cà rốt hơn trên cây gậy",
+    "hash_code_list_mean": "-1959208595"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/still_gg_1000_it.json",
+    "total": 1838,
+    "index": 1535,
+    "id_item": "still_gg_1000_it",
+    "english": "still",
+    "list_mean": [
+      "yên tâm",
+      "làm cho dịu",
+      "làm cho êm",
+      "làm vững dạ",
+      "làm cho yên lòng",
+      "song le",
+      "còn",
+      "tuy vậy",
+      "êm lặng",
+      "không động đậy",
+      "làm thinh",
+      "nín lặng",
+      "yên lặng",
+      "không nhúc nhích"
+    ],
+    "cau_en": "write, or better still, type, captions for the pictures",
+    "cau_vn": "Viết, hoặc tốt hơn yên, loại, chú thích cho hình ảnh",
+    "hash_code_list_mean": "-1570762350"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/sting_gg_1000_it.json",
+    "total": 1838,
+    "index": 1536,
+    "id_item": "sting_gg_1000_it",
+    "english": "sting",
+    "list_mean": [
+      "lông ngứa",
+      "nốt đốt",
+      "răng độc của rắn",
+      "sự chua chát",
+      "sự đau nhức nhối",
+      "sự sâu sắc",
+      "vòi của ong",
+      "bị ong đốt",
+      "làm nhức nhối"
+    ],
+    "cau_en": "an elaborate fraud that stung a bank for thousands",
+    "cau_vn": "một gian lận phức tạp đã tạo ra một ngân hàng cho hàng ngàn",
+    "hash_code_list_mean": "271872134"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/stink_gg_1000_it.json",
+    "total": 1838,
+    "index": 1537,
+    "id_item": "stink_gg_1000_it",
+    "english": "stink",
+    "list_mean": [
+      "mùi hôi",
+      "mùi thúi",
+      "bay mùi hôi"
+    ],
+    "cau_en": "the stink of the place hit me as I went in",
+    "cau_vn": "mùi hôi thối của nơi đánh tôi khi tôi đi vào",
+    "hash_code_list_mean": "-1801878265"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/stomach_gg_1000_it.json",
+    "total": 1838,
+    "index": 1538,
+    "id_item": "stomach_gg_1000_it",
+    "english": "stomach",
+    "list_mean": [
+      "bao tử",
+      "dạ dày",
+      "bụng"
+    ],
+    "cau_en": "if you cannot stomach orange juice, try apple juice",
+    "cau_vn": "Nếu bạn không thể chịu đựng nước cam, hãy thử nước táo",
+    "hash_code_list_mean": "-1017512779"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/stone_gg_1000_it.json",
+    "total": 1838,
+    "index": 1539,
+    "id_item": "stone_gg_1000_it",
+    "english": "stone",
+    "list_mean": [
+      "đá",
+      "đá sỏi",
+      "thạch"
+    ],
+    "cau_en": "the honey-stoned, eighteenth-century city",
+    "cau_vn": "thành phố mật ong bị ném đá, thế kỷ thứ mười tám",
+    "hash_code_list_mean": "-1295766592"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/stool_gg_1000_it.json",
+    "total": 1838,
+    "index": 1540,
+    "id_item": "stool_gg_1000_it",
+    "english": "stool",
+    "list_mean": [
+      "đi tiêu",
+      "ghế đẩu",
+      "gốc cây"
+    ],
+    "cau_en": "fiber in the child's diet will soften the stools",
+    "cau_vn": "Chất xơ trong chế độ ăn uống của trẻ sẽ làm mềm phân",
+    "hash_code_list_mean": "-877863221"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/stop_gg_1000_it.json",
+    "total": 1838,
+    "index": 1541,
+    "id_item": "stop_gg_1000_it",
+    "english": "stop",
+    "list_mean": [
+      "thôi",
+      "bịt lại",
+      "dừng lại",
+      "đình chỉ",
+      "ngăn cản",
+      "ngừng lại",
+      "chổ ngừng lại",
+      "dấu chấm câu",
+      "dừng",
+      "đìêm dừng",
+      "sự ngưng lại",
+      "sự tạm nghĩ"
+    ],
+    "cau_en": "he tried to stop the hole with the heel of his boot",
+    "cau_vn": "Anh ta đã cố gắng ngăn chặn lỗ với gót chân của anh ấy",
+    "hash_code_list_mean": "1178671144"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/store_gg_1000_it.json",
+    "total": 1838,
+    "index": 1542,
+    "id_item": "store_gg_1000_it",
+    "english": "store",
+    "list_mean": [
+      "cửa hàng",
+      "đồ tích trữ",
+      "tiệm",
+      "kho chứa hàng",
+      "lương thực",
+      "sự có nhiều",
+      "sự dồi dào",
+      "cất vào kho",
+      "chứa được",
+      "tích trữ",
+      "trau giồi"
+    ],
+    "cau_en": "a small room used for storing furniture",
+    "cau_vn": "một căn phòng nhỏ được sử dụng để lưu trữ đồ nội thất",
+    "hash_code_list_mean": "-1201476935"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/stormy_gg_1000_it.json",
+    "total": 1838,
+    "index": 1543,
+    "id_item": "stormy_gg_1000_it",
+    "english": "stormy",
+    "list_mean": [
+      "thuộc về bảo tố"
+    ],
+    "cau_en": "a dark and stormy night",
+    "cau_vn": "Một đêm tối và bão tố",
+    "hash_code_list_mean": "221444454"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/storm_gg_1000_it.json",
+    "total": 1838,
+    "index": 1544,
+    "id_item": "storm_gg_1000_it",
+    "english": "storm",
+    "list_mean": [
+      "mưa giông",
+      "bão",
+      "bảo tố",
+      "sự tấn công",
+      "đột kích",
+      "thổi mạnh dử dội"
+    ],
+    "cau_en": "commandos stormed a hijacked plane early today",
+    "cau_vn": "Commandos đã xông vào một chiếc máy bay bị tấn công vào đầu ngày hôm nay",
+    "hash_code_list_mean": "553823462"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/story_gg_1000_it.json",
+    "total": 1838,
+    "index": 1545,
+    "id_item": "story_gg_1000_it",
+    "english": "story",
+    "list_mean": [
+      "cách sắp đặt",
+      "câu chuyện",
+      "lới nói láo",
+      "tiểu sử",
+      "truyện"
+    ],
+    "cau_en": "the story of modern farming",
+    "cau_vn": "Câu chuyện về nông nghiệp hiện đại",
+    "hash_code_list_mean": "228375590"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/straightforward_gg_1000_it.json",
+    "total": 1838,
+    "index": 1546,
+    "id_item": "straightforward_gg_1000_it",
+    "english": "straightforward",
+    "list_mean": [
+      "chân thật",
+      "minh bạch",
+      "ngay thẳng",
+      "thành thật",
+      "thẳng về phía trước"
+    ],
+    "cau_en": "in a straightforward case no fees will be charged",
+    "cau_vn": "Trong một trường hợp đơn giản, không có phí sẽ được tính phí",
+    "hash_code_list_mean": "-683017785"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/straight_gg_1000_it.json",
+    "total": 1838,
+    "index": 1547,
+    "id_item": "straight_gg_1000_it",
+    "english": "straight",
+    "list_mean": [
+      "ngay",
+      "chân thật",
+      "có thứ tự",
+      "minh bạch",
+      "rỏ ràng",
+      "thành thật",
+      "thẳng"
+    ],
+    "cau_en": "he pulled away in the straight to win by half a second",
+    "cau_vn": "anh ta kéo đi thẳng để giành chiến thắng một nửa giây",
+    "hash_code_list_mean": "1093398453"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/strange_gg_1000_it.json",
+    "total": 1838,
+    "index": 1548,
+    "id_item": "strange_gg_1000_it",
+    "english": "strange",
+    "list_mean": [
+      "không quen",
+      "lạ",
+      "xa lạ"
+    ],
+    "cau_en": "a harsh accent that was strange to his ears",
+    "cau_vn": "một giọng khắc nghiệt là lạ đối với tai anh ấy",
+    "hash_code_list_mean": "1103402469"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/stream_gg_1000_it.json",
+    "total": 1838,
+    "index": 1549,
+    "id_item": "stream_gg_1000_it",
+    "english": "stream",
+    "list_mean": [
+      "sông",
+      "giòng nước",
+      "suối",
+      "sự chảy nhiều",
+      "vô số",
+      "chảy ào ào",
+      "phất phơ",
+      "rửa cho sạch đất bùn"
+    ],
+    "cau_en": "she sat with tears streaming down her face",
+    "cau_vn": "Cô ngồi với nước mắt chảy xuống mặt",
+    "hash_code_list_mean": "-898962793"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/street_gg_1000_it.json",
+    "total": 1838,
+    "index": 1550,
+    "id_item": "street_gg_1000_it",
+    "english": "street",
+    "list_mean": [
+      "đường",
+      "đường phố"
+    ],
+    "cau_en": "the narrow, winding streets of Greenwich Village",
+    "cau_vn": "đường hẹp, quanh co của làng Greenwich",
+    "hash_code_list_mean": "-219729928"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/stress_gg_1000_it.json",
+    "total": 1838,
+    "index": 1551,
+    "id_item": "stress_gg_1000_it",
+    "english": "stress",
+    "list_mean": [
+      "chủ âm",
+      "đọc nhấn mạnh vần",
+      "sự bắt buộc",
+      "sức",
+      "động lực",
+      "dùng nhiều lần",
+      "lâu ngày đến cong",
+      "nhấn mạnh",
+      "oằn xuống"
+    ],
+    "cau_en": "this type of workout does stress the shoulder and knee joints",
+    "cau_vn": "Loại bài tập luyện này làm căng thẳng các khớp vai và đầu gối",
+    "hash_code_list_mean": "93649492"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/stretch_gg_1000_it.json",
+    "total": 1838,
+    "index": 1552,
+    "id_item": "stretch_gg_1000_it",
+    "english": "stretch",
+    "list_mean": [
+      "căng ra",
+      "duổi tay chân ra",
+      "kéo ra",
+      "nằm dài ra",
+      "nới rộng",
+      "diện tích",
+      "khoảng rộng",
+      "nghĩa rộng của một chữ",
+      "sự kéo dài ra",
+      "sự dơ ra",
+      "sự duổi ra",
+      "sự vươn ra",
+      "tính giản ra rút lại"
+    ],
+    "cau_en": "the beach stretches for over four miles",
+    "cau_vn": "bãi biển trải dài cho hơn bốn dặm",
+    "hash_code_list_mean": "-1284870590"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/stride_gg_1000_it.json",
+    "total": 1838,
+    "index": 1553,
+    "id_item": "stride_gg_1000_it",
+    "english": "stride",
+    "list_mean": [
+      "bước dài",
+      "đi bước dài",
+      "tiến bộ nhiều"
+    ],
+    "cau_en": "by giving a little leap she could stride across like a grown-up",
+    "cau_vn": "Bằng cách đưa ra một bước nhảy vọt nhỏ, cô ấy có thể sải bước như một người trưởng thành",
+    "hash_code_list_mean": "-1137618156"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/strike_gg_1000_it.json",
+    "total": 1838,
+    "index": 1554,
+    "id_item": "strike_gg_1000_it",
+    "english": "strike",
+    "list_mean": [
+      "soi qua",
+      "đánh người nào",
+      "đình công",
+      "cái đánh",
+      "cuộc bải công",
+      "sự đụng nhằm",
+      "cuộc đình công"
+    ],
+    "cau_en": "they struck similar medals on behalf of the Normandy veterans",
+    "cau_vn": "Họ đánh huy chương tương tự thay mặt các cựu chiến binh Normandy",
+    "hash_code_list_mean": "-921882715"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/string_gg_1000_it.json",
+    "total": 1838,
+    "index": 1555,
+    "id_item": "string_gg_1000_it",
+    "english": "string",
+    "list_mean": [
+      "dây chỉ",
+      "dây đàn",
+      "thớ thịt",
+      "dây nhỏ",
+      "buộc bằng dây",
+      "xỏ hột bằng dây"
+    ],
+    "cau_en": "she wore a string of agates around her throat",
+    "cau_vn": "Cô mặc một chuỗi ký hiệu quanh cổ họng",
+    "hash_code_list_mean": "1886124547"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/strongly_gg_1000_it.json",
+    "total": 1838,
+    "index": 1556,
+    "id_item": "strongly_gg_1000_it",
+    "english": "strongly",
+    "list_mean": [
+      "cường tráng",
+      "kiên cố",
+      "mạnh mẽ"
+    ],
+    "cau_en": "she started out swimming strongly",
+    "cau_vn": "Cô ấy bắt đầu bơi mạnh",
+    "hash_code_list_mean": "-2070365229"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/strong_gg_1000_it.json",
+    "total": 1838,
+    "index": 1557,
+    "id_item": "strong_gg_1000_it",
+    "english": "strong",
+    "list_mean": [
+      "ánh sáng chói",
+      "bền",
+      "cường tráng",
+      "kiên cố",
+      "mạnh",
+      "vững chắc"
+    ],
+    "cau_en": "cotton is strong, hard-wearing, and easy to handle",
+    "cau_vn": "Bông là mạnh mẽ, cứng, và dễ xử lý",
+    "hash_code_list_mean": "-1343452104"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/structure_gg_1000_it.json",
+    "total": 1838,
+    "index": 1558,
+    "id_item": "structure_gg_1000_it",
+    "english": "structure",
+    "list_mean": [
+      "cách kết cấu",
+      "vật kiến trúc"
+    ],
+    "cau_en": "flint is extremely hard, like diamond, which has a similar structure",
+    "cau_vn": "Flint cực kỳ cứng, như kim cương, có cấu trúc tương tự",
+    "hash_code_list_mean": "-826817401"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/struggle_gg_1000_it.json",
+    "total": 1838,
+    "index": 1559,
+    "id_item": "struggle_gg_1000_it",
+    "english": "struggle",
+    "list_mean": [
+      "cuộc tranh đấu",
+      "rán sức"
+    ],
+    "cau_en": "before she could struggle, he lifted her up",
+    "cau_vn": "Trước khi cô có thể đấu tranh, anh ta nâng cô lên",
+    "hash_code_list_mean": "-1303160226"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/stubborn_gg_1000_it.json",
+    "total": 1838,
+    "index": 1560,
+    "id_item": "stubborn_gg_1000_it",
+    "english": "stubborn",
+    "list_mean": [
+      "bướng bỉnh"
+    ],
+    "cau_en": "a stubborn refusal to learn from experience",
+    "cau_vn": "một sự bướng bỉnh từ chối học hỏi từ kinh nghiệm",
+    "hash_code_list_mean": "-1176778334"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/student_gg_1000_it.json",
+    "total": 1838,
+    "index": 1561,
+    "id_item": "student_gg_1000_it",
+    "english": "student",
+    "list_mean": [
+      "sinh viên",
+      "học sinh"
+    ],
+    "cau_en": "a student of sociology",
+    "cau_vn": "một sinh viên xã hội học",
+    "hash_code_list_mean": "-903228285"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/study_gg_1000_it.json",
+    "total": 1838,
+    "index": 1562,
+    "id_item": "study_gg_1000_it",
+    "english": "study",
+    "list_mean": [
+      "học hỏi",
+      "nghiên cứu",
+      "phòng làm việc",
+      "sự chăm chú",
+      "sự chú ý",
+      "sự học",
+      "chăm chú",
+      "học tập",
+      "nghiên cứu",
+      "trắc nghiệm"
+    ],
+    "cau_en": "with no husband to study, housekeeping is mere play",
+    "cau_vn": "không có chồng học, vệ sinh chỉ chơi",
+    "hash_code_list_mean": "-919976759"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/subjective_gg_1000_it.json",
+    "total": 1838,
+    "index": 1563,
+    "id_item": "subjective_gg_1000_it",
+    "english": "subjective",
+    "list_mean": [
+      "chủ quan",
+      "thuộc về chủ đề"
+    ],
+    "cau_en": "his views are highly subjective",
+    "cau_vn": "quan điểm của anh ấy rất chủ quan",
+    "hash_code_list_mean": "-1614934326"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/subject_gg_1000_it.json",
+    "total": 1838,
+    "index": 1564,
+    "id_item": "subject_gg_1000_it",
+    "english": "subject",
+    "list_mean": [
+      "công dân",
+      "chủ từ",
+      "dân của một nước",
+      "thi thể để mổ xẻ",
+      "vấn đề",
+      "bị chinh phục",
+      "có thể",
+      "không tránh khỏi",
+      "bắt buộc",
+      "chinh phục"
+    ],
+    "cau_en": "the proposed merger is subject to the approval of the shareholders",
+    "cau_vn": "Sáp nhập đề xuất phải được sự chấp thuận của các cổ đông",
+    "hash_code_list_mean": "825626026"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/submit_gg_1000_it.json",
+    "total": 1838,
+    "index": 1565,
+    "id_item": "submit_gg_1000_it",
+    "english": "submit",
+    "list_mean": [
+      "đệ trình",
+      "khuất phục",
+      "quy phục",
+      "trình tự"
+    ],
+    "cau_en": "the original settlers were forced to submit to Bulgarian rule",
+    "cau_vn": "Những người định cư ban đầu đã buộc phải nộp cho quy tắc Bulgaria",
+    "hash_code_list_mean": "-310718726"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/substance_gg_1000_it.json",
+    "total": 1838,
+    "index": 1566,
+    "id_item": "substance_gg_1000_it",
+    "english": "substance",
+    "list_mean": [
+      "đại ý",
+      "nội dung",
+      "tài sản",
+      "tính bền",
+      "thể chất",
+      "vật chất"
+    ],
+    "cau_en": "proteins compose much of the actual substance of the body",
+    "cau_vn": "Protein sáng tác nhiều chất thực tế của cơ thể",
+    "hash_code_list_mean": "-938325206"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/subtraction_gg_1000_it.json",
+    "total": 1838,
+    "index": 1567,
+    "id_item": "subtraction_gg_1000_it",
+    "english": "subtraction",
+    "list_mean": [
+      "phép toán trừ",
+      "sự khử đi"
+    ],
+    "cau_en": "subtraction of this figure from the total",
+    "cau_vn": "trừ con số này từ tổng số",
+    "hash_code_list_mean": "1156438122"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/subtract_gg_1000_it.json",
+    "total": 1838,
+    "index": 1568,
+    "id_item": "subtract_gg_1000_it",
+    "english": "subtract",
+    "list_mean": [
+      "khử",
+      "trừ"
+    ],
+    "cau_en": "subtract 43 from 60",
+    "cau_vn": "trừ 43 từ 60",
+    "hash_code_list_mean": "105934745"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/succeed_gg_1000_it.json",
+    "total": 1838,
+    "index": 1569,
+    "id_item": "succeed_gg_1000_it",
+    "english": "succeed",
+    "list_mean": [
+      "kế tiếp",
+      "kế vị",
+      "nối nghiệp",
+      "thành công",
+      "thành tựu"
+    ],
+    "cau_en": "keep trying and you will eventually succeed",
+    "cau_vn": "tiếp tục cố gắng và cuối cùng bạn sẽ thành công",
+    "hash_code_list_mean": "53305442"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/success_gg_1000_it.json",
+    "total": 1838,
+    "index": 1570,
+    "id_item": "success_gg_1000_it",
+    "english": "success",
+    "list_mean": [
+      "kết quả",
+      "sự thành công",
+      "sự thắng lợi"
+    ],
+    "cau_en": "the good or ill success of their maritime enterprises",
+    "cau_vn": "thành công tốt hoặc xấu của các doanh nghiệp hàng hải của họ",
+    "hash_code_list_mean": "1007700396"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/such_gg_1000_it.json",
+    "total": 1838,
+    "index": 1571,
+    "id_item": "such_gg_1000_it",
+    "english": "such",
+    "list_mean": [
+      "như thế",
+      "như vậy"
+    ],
+    "cau_en": "I have been involved in many such courses",
+    "cau_vn": "Tôi đã tham gia vào nhiều khóa học như vậy",
+    "hash_code_list_mean": "1846144824"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/sudden_gg_1000_it.json",
+    "total": 1838,
+    "index": 1572,
+    "id_item": "sudden_gg_1000_it",
+    "english": "sudden",
+    "list_mean": [
+      "làm thình lình",
+      "xảy ra"
+    ],
+    "cau_en": "sudden there swooped an eagle downward",
+    "cau_vn": "Đột nhiên có một con đại bàng xuống dưới",
+    "hash_code_list_mean": "734861143"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/suffer_gg_1000_it.json",
+    "total": 1838,
+    "index": 1573,
+    "id_item": "suffer_gg_1000_it",
+    "english": "suffer",
+    "list_mean": [
+      "cam chịu",
+      "chịu thiệt hại"
+    ],
+    "cau_en": "he'd suffered intense pain",
+    "cau_vn": "Anh ấy phải chịu nỗi đau dữ dội",
+    "hash_code_list_mean": "2131125131"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/sugar_gg_1000_it.json",
+    "total": 1838,
+    "index": 1574,
+    "id_item": "sugar_gg_1000_it",
+    "english": "sugar",
+    "list_mean": [
+      "đường",
+      "lời nói ngọt ngào"
+    ],
+    "cau_en": "the novel was preachy but sugared heavily with jokes",
+    "cau_vn": "Tiểu thuyết đã được thuyết tạ nhưng có đường rất nhiều với những câu chuyện cười",
+    "hash_code_list_mean": "1518438323"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/suggest_gg_1000_it.json",
+    "total": 1838,
+    "index": 1575,
+    "id_item": "suggest_gg_1000_it",
+    "english": "suggest",
+    "list_mean": [
+      "dẩn khởi",
+      "đề nghị",
+      "gợi ý"
+    ],
+    "cau_en": "I suggest that we wait a day or two",
+    "cau_vn": "Tôi đề nghị chúng tôi đợi một hoặc hai ngày",
+    "hash_code_list_mean": "-1116795010"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/suite_gg_1000_it.json",
+    "total": 1838,
+    "index": 1576,
+    "id_item": "suite_gg_1000_it",
+    "english": "suite",
+    "list_mean": [
+      "bộ",
+      "đoàn tùy tùng"
+    ],
+    "cau_en": "potassic rock suites are a characteristic feature of the area",
+    "cau_vn": "Potassic Rock Suites là một đặc điểm đặc trưng của khu vực",
+    "hash_code_list_mean": "2065440881"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/suit_gg_1000_it.json",
+    "total": 1838,
+    "index": 1577,
+    "id_item": "suit_gg_1000_it",
+    "english": "suit",
+    "list_mean": [
+      "bộ com lê",
+      "bộ đồ",
+      "lời thỉnh cầu",
+      "lời thỉnh nguyện",
+      "bộ quần áo lớn",
+      "lời xin",
+      "hợp với vật gì",
+      "màu của lá bài",
+      "sự cầu hôn",
+      "việc tố tụng",
+      "việc tranh tụng",
+      "làm cho thích hợp"
+    ],
+    "cau_en": "they went ashore and changed to another suit of sails",
+    "cau_vn": "họ đã lên bờ và đổi thành một bộ đồ khác của những cánh buồm",
+    "hash_code_list_mean": "1126401422"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/summer_gg_1000_it.json",
+    "total": 1838,
+    "index": 1578,
+    "id_item": "summer_gg_1000_it",
+    "english": "summer",
+    "list_mean": [
+      "mùa hạ",
+      "mùa hè"
+    ],
+    "cau_en": "well over 100 birds summered there in 1976",
+    "cau_vn": "Hơn 100 con chim ở đó vào năm 1976",
+    "hash_code_list_mean": "671593146"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/sunburn_gg_1000_it.json",
+    "total": 1838,
+    "index": 1579,
+    "id_item": "sunburn_gg_1000_it",
+    "english": "sunburn",
+    "list_mean": [
+      "da bị sạm vì nắng",
+      "sự sạm da vì nắng",
+      "bị ăn nắng",
+      "cháy nắng"
+    ],
+    "cau_en": "we got sunburned but didn't realize it because of the breeze",
+    "cau_vn": "Chúng tôi bị cháy nắng nhưng không nhận ra điều đó vì gió",
+    "hash_code_list_mean": "1846647346"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/sunny_gg_1000_it.json",
+    "total": 1838,
+    "index": 1580,
+    "id_item": "sunny_gg_1000_it",
+    "english": "sunny",
+    "list_mean": [
+      "có ánh nắng",
+      "hớn hở",
+      "nắng"
+    ],
+    "cau_en": "a sunny day",
+    "cau_vn": "một ngày nắng",
+    "hash_code_list_mean": "-2071769896"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/sunshine_gg_1000_it.json",
+    "total": 1838,
+    "index": 1581,
+    "id_item": "sunshine_gg_1000_it",
+    "english": "sunshine",
+    "list_mean": [
+      "ánh sáng mặt trời",
+      "sự hớn hở",
+      "sự lạc quan",
+      "sự vui tươi"
+    ],
+    "cau_en": "we walked in the warm sunshine",
+    "cau_vn": "chúng tôi đi",
+    "hash_code_list_mean": "-852129162"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/sun_gg_1000_it.json",
+    "total": 1838,
+    "index": 1582,
+    "id_item": "sun_gg_1000_it",
+    "english": "sun",
+    "list_mean": [
+      "mặt trời",
+      "thái dương"
+    ],
+    "cau_en": "Buzz could see Clare sunning herself on the terrace below",
+    "cau_vn": "Buzz có thể thấy Clare Sneting mình trên sân thượng bên dưới",
+    "hash_code_list_mean": "-258666959"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/supply_gg_1000_it.json",
+    "total": 1838,
+    "index": 1583,
+    "id_item": "supply_gg_1000_it",
+    "english": "supply",
+    "list_mean": [
+      "sự cung cấp",
+      "sự tiếp tế",
+      "sự thế tạm",
+      "cung cấp",
+      "thêm vào"
+    ],
+    "cau_en": "there were fears that the drought would limit the exhibition's water supply",
+    "cau_vn": "Có những nỗi sợ hãi rằng hạn hán sẽ hạn chế cấp nước của triển lãm",
+    "hash_code_list_mean": "-1852334715"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/supporter_gg_1000_it.json",
+    "total": 1838,
+    "index": 1584,
+    "id_item": "supporter_gg_1000_it",
+    "english": "supporter",
+    "list_mean": [
+      "người cấp dưỡng",
+      "người giúp đở",
+      "người ủng hộ",
+      "vật để chống đở"
+    ],
+    "cau_en": "Reagan supporters",
+    "cau_vn": "Người ủng hộ Reagan",
+    "hash_code_list_mean": "399703337"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/support_gg_1000_it.json",
+    "total": 1838,
+    "index": 1585,
+    "id_item": "support_gg_1000_it",
+    "english": "support",
+    "list_mean": [
+      "người nhờ cậy",
+      "sự giúp đở",
+      "sự ủng hộ",
+      "chịu đựng",
+      "chống đở",
+      "ủng hộ"
+    ],
+    "cau_en": "he urged that military support be sent to protect humanitarian convoys",
+    "cau_vn": "Ông thúc giục rằng hỗ trợ quân sự được gửi để bảo vệ các đoàn xe nhân đạo",
+    "hash_code_list_mean": "760344200"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/suppose_gg_1000_it.json",
+    "total": 1838,
+    "index": 1586,
+    "id_item": "suppose_gg_1000_it",
+    "english": "suppose",
+    "list_mean": [
+      "giả sử",
+      "giả thiết",
+      "nhận là có thật"
+    ],
+    "cau_en": "I'm supposed to be meeting someone at the airport",
+    "cau_vn": "Tôi phải gặp một người tại sân bay",
+    "hash_code_list_mean": "988686761"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/sure_gg_1000_it.json",
+    "total": 1838,
+    "index": 1587,
+    "id_item": "sure_gg_1000_it",
+    "english": "sure",
+    "list_mean": [
+      "chắc",
+      "chắc chắn",
+      "hiệu nghiệm",
+      "không thể sai lầm",
+      "xác thật"
+    ],
+    "cau_en": "I'm sure I've seen that dress before",
+    "cau_vn": "Tôi chắc chắn rằng tôi đã thấy chiếc váy đó trước đây",
+    "hash_code_list_mean": "-1090860786"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/surface_gg_1000_it.json",
+    "total": 1838,
+    "index": 1588,
+    "id_item": "surface_gg_1000_it",
+    "english": "surface",
+    "list_mean": [
+      "mặt",
+      "mặt ngoài",
+      "làm láng"
+    ],
+    "cau_en": "a small path surfaced with terra-cotta tiles",
+    "cau_vn": "Một con đường nhỏ nổi lên với gạch terra-cotta",
+    "hash_code_list_mean": "768117248"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/surfing_gg_1000_it.json",
+    "total": 1838,
+    "index": 1589,
+    "id_item": "surfing_gg_1000_it",
+    "english": "surfing",
+    "list_mean": [
+      "sự ngán vì quá no"
+    ],
+    "cau_en": "why share your internet connection with people surfing and chatting?",
+    "cau_vn": "Tại sao chia sẻ kết nối internet của bạn với những người lướt web và trò chuyện?",
+    "hash_code_list_mean": "-340932572"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/surprise_gg_1000_it.json",
+    "total": 1838,
+    "index": 1590,
+    "id_item": "surprise_gg_1000_it",
+    "english": "surprise",
+    "list_mean": [
+      "sự kinh ngạc",
+      "sự ngạc nhiên",
+      "đột kích",
+      "làm kinh ngạc"
+    ],
+    "cau_en": "the announcement was a complete surprise",
+    "cau_vn": "Thông báo là một bất ngờ hoàn toàn",
+    "hash_code_list_mean": "1077986282"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/surround_gg_1000_it.json",
+    "total": 1838,
+    "index": 1591,
+    "id_item": "surround_gg_1000_it",
+    "english": "surround",
+    "list_mean": [
+      "đường viền",
+      "rào chung quanh"
+    ],
+    "cau_en": "the hotel is surrounded by its own gardens",
+    "cau_vn": "Khách sạn được bao quanh bởi những khu vườn riêng của mình",
+    "hash_code_list_mean": "1761671395"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/survey_gg_1000_it.json",
+    "total": 1838,
+    "index": 1592,
+    "id_item": "survey_gg_1000_it",
+    "english": "survey",
+    "list_mean": [
+      "đưa mắt qua",
+      "kiểm điểm",
+      "lập địa đồ",
+      "nhìn qua",
+      "quan sát kỷ lưỡng"
+    ],
+    "cau_en": "95% of patients surveyed were satisfied with the health service",
+    "cau_vn": "95 %% 20OF% 20 HPATIBS% 20SURVEED% 20WERE% 20SATISFIED% 20VITH% 20HE% 20Health% 20Service",
+    "hash_code_list_mean": "-1566680089"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/survive_gg_1000_it.json",
+    "total": 1838,
+    "index": 1593,
+    "id_item": "survive_gg_1000_it",
+    "english": "survive",
+    "list_mean": [
+      "còn sống",
+      "sống lâu hơn hết",
+      "sống sót",
+      "vẩn tồn tại"
+    ],
+    "cau_en": "against all odds the child survived",
+    "cau_vn": "chống lại tất cả các tỷ lệ cược mà đứa trẻ sống sót",
+    "hash_code_list_mean": "1880354134"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/suspect_gg_1000_it.json",
+    "total": 1838,
+    "index": 1594,
+    "id_item": "suspect_gg_1000_it",
+    "english": "suspect",
+    "list_mean": [
+      "đáng ngờ",
+      "khả nghi",
+      "nghi ngờ"
+    ],
+    "cau_en": "a broker whose honesty he had no reason to suspect",
+    "cau_vn": "một nhà môi giới có sự trung thực mà anh ta không có lý do để nghi ngờ",
+    "hash_code_list_mean": "-1809435626"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/swear_gg_1000_it.json",
+    "total": 1838,
+    "index": 1595,
+    "id_item": "swear_gg_1000_it",
+    "english": "swear",
+    "list_mean": [
+      "lới thề",
+      "nguyền rủa",
+      "tuyên thệ",
+      "thề"
+    ],
+    "cau_en": "Maria made me swear I would never tell anyone",
+    "cau_vn": "Maria làm tôi thề tôi sẽ không bao giờ nói với ai",
+    "hash_code_list_mean": "1749787117"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/sweater_gg_1000_it.json",
+    "total": 1838,
+    "index": 1596,
+    "id_item": "sweater_gg_1000_it",
+    "english": "sweater",
+    "list_mean": [
+      "áo len dài tay",
+      "áo nịt bằng len"
+    ],
+    "cau_en": "a close-knit wool sweater for icy weather",
+    "cau_vn": "Một chiếc áo len len dệt kim gần gũi cho thời tiết băng giá",
+    "hash_code_list_mean": "1553341597"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/sweat_gg_1000_it.json",
+    "total": 1838,
+    "index": 1597,
+    "id_item": "sweat_gg_1000_it",
+    "english": "sweat",
+    "list_mean": [
+      "công việc vất vả",
+      "giọt nước rỉ ra",
+      "mồ hôi",
+      "sự toán mồ hôi",
+      "chảy mồ hôi",
+      "làm chảy mồ hôi",
+      "làm việc mệt nhọc"
+    ],
+    "cau_en": "sweat the celery and onions with olive oil and seasoning",
+    "cau_vn": "Đổ mồ hôi cần tây và hành tây bằng dầu ô liu và gia vị",
+    "hash_code_list_mean": "1032433804"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/sweep_gg_1000_it.json",
+    "total": 1838,
+    "index": 1598,
+    "id_item": "sweep_gg_1000_it",
+    "english": "sweep",
+    "list_mean": [
+      "cần dùng để múc giếng",
+      "cây chèo dài",
+      "đường cong của sông",
+      "người cạo ống khói",
+      "sự dọn dẹp",
+      "sự quét",
+      "cạo ống khói",
+      "chạy dài",
+      "đi mau tới trước",
+      "quét",
+      "vạch đường cong",
+      "vét bùn hai bên đường",
+      "vuốt vật gì"
+    ],
+    "cau_en": "the detective swept the room for hair and fingerprints",
+    "cau_vn": "Thám tử quét phòng cho tóc và dấu vân tay",
+    "hash_code_list_mean": "1384855399"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/swell_gg_1000_it.json",
+    "total": 1838,
+    "index": 1599,
+    "id_item": "swell_gg_1000_it",
+    "english": "swell",
+    "list_mean": [
+      "sưng lên",
+      "làm phồng lên",
+      "phình lên",
+      "phong lưu",
+      "đẹp",
+      "thanh nhã",
+      "chổ lồi ra",
+      "chổ phồng lên",
+      "người có danh giá",
+      "sóng biển nổi lên",
+      "chổ sưng lên",
+      "người có vẻ thanh nhã"
+    ],
+    "cau_en": "there was a swell of support in favor of him",
+    "cau_vn": "Có một sự sưng lên của sự ủng hộ ủng hộ anh ta",
+    "hash_code_list_mean": "-1227682495"
+  }
+]
